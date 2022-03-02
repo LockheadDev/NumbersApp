@@ -4,4 +4,8 @@
     <string name="promedio">Muestra el promedio</string>
     <string name="mayor">Muestra al mayor</string>
     <string name="pares">Muestra números pares</string>
+    <string name="collection" />
+    <string name="nullText" />
+    <string name="promedioPares" />
+    <string name="promedioP">Promedio de pares</string>
 </resources>
